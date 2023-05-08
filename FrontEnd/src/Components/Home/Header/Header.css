@@ -1,0 +1,63 @@
+#Nav-link{
+    display: flex;
+    align-self: center;
+}
+#Nav-btn{
+    place-content: end;
+    display: flex;
+    width: 100%;
+}
+.navbar-nav{
+    width: 100%;
+}
+.btn{
+    margin: 10px;
+}
+
+.toast-body {
+  padding: 0px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+#profile-name{
+  color: aliceblue;
+  align-self: center;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.Status .modal-content{
+  background-color: burlywood;
+  margin: 0 0 0 auto;
+  width: 50%;
+}
+.modal-dialog{
+  width: inherit;
+}
+
+#Pagination{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+.titlebar{
+  display: flex;
+    justify-content: space-between;
+}
+.search{
+  margin: 10px 30px;
+  border-radius: 6px;
+    box-shadow: 2px 2px green;
+}

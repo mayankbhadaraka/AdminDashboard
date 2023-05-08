@@ -1,0 +1,15 @@
+#main {
+  height: 83vh;
+  background-image: url("https://cdn.vectorstock.com/i/preview-1x/66/96/abstract-banner-web-white-gray-and-black-color-vector-44786696.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#main h1 {
+  color: #14cc31;
+  width: 100%;
+  margin-top: 0px;
+  font-size: 90px;
+}
